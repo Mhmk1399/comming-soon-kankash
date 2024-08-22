@@ -27,7 +27,7 @@ const page = () => {
               تماس با پشتیبانی
             </a>
           </div>
-          <div className="text-white text-2xl font-bold mb-4">
+          <div className="text-black dark:text-white text-2xl font-bold mb-4">
             خرید از دیگر فروشگاه‌ها
           </div>
           <div className="flex flex-wrap justify-center gap-4">
